@@ -11,4 +11,4 @@
 ## Individual problems
 | Problem | Lettcode | Solution |
 | ------ | ------ | ------|
-| 3sum | https://leetcode.com/problems/3sum/ | [solution](README.md) |
+| 3sum | https://leetcode.com/problems/3sum/ | [solution](src/production/JavaTesting/com/javatesting/ThreeSum.class) |
