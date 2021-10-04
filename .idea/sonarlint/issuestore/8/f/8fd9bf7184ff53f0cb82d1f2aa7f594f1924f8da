@@ -1,0 +1,36 @@
+
+q
+java:S1488!"[Immediately return this expression instead of assigning it to the temporary variable "sol".(…èÛá
+q
+java:S1488+"[Immediately return this expression instead of assigning it to the temporary variable "sol".(†ñæÏ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ä„Ì®
+G
+java:S1612",Replace this lambda with a method reference.(‚øÄûÿÿÿÿ
+B
+java:S1612",Replace this lambda with a method reference.(’ªÂ·
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸ ıÿÿÿÿ
+M
+java:S1135 "2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+M
+java:S1135*"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+t
+java:S2142J"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(üŸ´Â
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(¬­’ıÿÿÿÿ
+M
+java:S1135K"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+A
+java:S1172U"&Remove these unused method parameters.(îâ¬øÿÿÿÿ
+t
+java:S2142Y"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+M	java:S106W"9Replace this use of System.out or System.err by a logger.(ÇØÅ
+M
+java:S1135Z"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+A
+java:S1172`"&Remove these unused method parameters.(Ğ´¼ıÿÿÿÿ
+t
+java:S2142d"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(Š¦öğ8Šİˆø²/
+M
+java:S1135e"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ

@@ -1,0 +1,9 @@
+
+f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûõ•Œ
+f	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûõ•Œ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÉÞ îøÿÿÿÿ
+1
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ
+X	java:S125"<This block of commented-out lines of code should be removed.(…‚€•8“Í‹²ž/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«¶žîÿÿÿÿÿ8ç·–²ž/

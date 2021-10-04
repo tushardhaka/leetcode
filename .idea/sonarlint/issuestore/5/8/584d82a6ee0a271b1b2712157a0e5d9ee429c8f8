@@ -1,0 +1,14 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·¥ëÇÿÿÿÿÿ8ˆŠ³âğ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Óú‚×ùÿÿÿÿ8ˆŠ³âğ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’©ııÿÿÿÿ8ˆŠ³âğ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÜ›ƒúÿÿÿÿ8ˆŠ³âğ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’©ııÿÿÿÿ8ˆŠ³âğ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÑÍıÿÿÿÿ8ˆŠ³âğ.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’©ııÿÿÿÿ8ˆŠ³âğ.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œØ™8ˆŠ³âğ.
+H
+java:S1172"&Remove these unused method parameters.(’©ııÿÿÿÿ8à³âğ.
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÑ‰8ˆŠ³âğ.
+V
+java:S3400""9Remove this method and declare a constant for this value.(”·³›8à³âğ.

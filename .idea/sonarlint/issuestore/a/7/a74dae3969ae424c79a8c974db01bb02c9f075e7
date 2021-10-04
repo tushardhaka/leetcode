@@ -1,0 +1,5 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(˜ßÜG8¸Ë‘ì/
+J	java:S108 ")Either remove or fill this block of code.(˜ÅÉèüÿÿÿÿ8ºÿî/
+H
+java:S1481 "&Remove this unused "i" local variable.(˜ÅÉèüÿÿÿÿ8ºÿî/

@@ -1,0 +1,11 @@
+
+_
+java:S1854"=Remove this useless assignment to local variable "targetSum".(εÒ–„όÿÿÿÿ8ης¨°/
+[
+java:S1854"9Remove this useless assignment to local variable "input".(Ι“®ψÿÿÿÿ8ή ¦°/
+Z
+java:S1197"8Move the array designator from the variable to the type.(Ι“®ψÿÿÿÿ8ή ¦°/
+L
+java:S1481"*Remove this unused "input" local variable.(Ι“®ψÿÿÿÿ8ΪΞ¦°/
+P
+java:S1481".Remove this unused "targetSum" local variable.(εÒ–„όÿÿÿÿ8ης¨°/

@@ -1,0 +1,19 @@
+
+b
+java:S1192"LDefine a constant instead of duplicating this literal "parse error" 5 times.(ê’Í¸
+J
+java:S1066L"/Merge this if statement with the enclosing one.(ã¯¬³øÿÿÿÿ
+s	java:S135 "YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+s	java:S1358"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+Y
+java:S1155T">Use isEmpty() to check whether the collection is empty or not.(õË‰ºûÿÿÿÿ
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ïº¶ÿ¢/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ïº¶ÿ¢/
+e
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¡—à5
+S	java:S106"9Replace this use of System.out or System.err by a logger.(­±ùıÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù˜úÿÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.(Ù˜úÿÿÿÿÿ

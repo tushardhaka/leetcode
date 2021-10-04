@@ -1,0 +1,6 @@
+
+€
+java:S4165
+"cRemove this useless assignment; "input" already holds the assigned value along all execution paths.(ãğ…ã8‹©·ğ™/
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(²İ¡úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š³’•

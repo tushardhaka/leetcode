@@ -1,0 +1,21 @@
+
+Q
+java:S1854"6Remove this useless assignment to local variable "m7".(‰ÎÌıÿÿÿÿ
+K
+java:S1854"6Remove this useless assignment to local variable "l4".(Å¼Ó
+Q	java:S125"<This block of commented-out lines of code should be removed.(§Ú“†
+Q	java:S125"<This block of commented-out lines of code should be removed.(ŸŠÀ­
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“´²íùÿÿÿÿ
+o
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘˜¨ê
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(ôğ¡ó
+o
+java:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘˜¨ê
+o
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÂÑÒ‚
+t
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿæóùüÿÿÿÿ
+<
+java:S1481"'Remove this unused "l4" local variable.(Å¼Ó
+B
+java:S1481"'Remove this unused "m7" local variable.(‰ÎÌıÿÿÿÿ

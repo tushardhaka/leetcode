@@ -1,0 +1,6 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëîƒªüÿÿÿÿ
+q
+java:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(àãÔ
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Í…º‹ûÿÿÿÿ

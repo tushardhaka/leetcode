@@ -1,0 +1,11 @@
+
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ŽÚšïüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„¼þ¨þÿÿÿÿ
+8
+java:S3626;"Remove this redundant jump.(ÉŠ©ƒ8ªÒêèž/
+Z
+java:S1854"?Remove this useless assignment to local variable "currentChar".(ØñÀŒþÿÿÿÿ
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ÿ€ž”8Ú‹ëèž/
+L
+java:S1481"1Remove this unused "finalCounter" local variable.(…ï»Œÿÿÿÿÿ

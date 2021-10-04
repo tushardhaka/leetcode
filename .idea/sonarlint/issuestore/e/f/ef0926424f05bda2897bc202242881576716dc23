@@ -1,0 +1,13 @@
+
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Àò®¶ÿÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ÛêÔ¢ûÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(´†éÅ
+<
+java:S11720"&Remove these unused method parameters.(‰Ïş
+A
+java:S11684"+Return an empty collection instead of null.(¥¹ï
+U
+java:S1854="?Remove this useless assignment to local variable "roundOffSum".(¹Œºù
+T
+java:S1854A"?Remove this useless assignment to local variable "roundOffSum".(ş£Q
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ÒığÙ

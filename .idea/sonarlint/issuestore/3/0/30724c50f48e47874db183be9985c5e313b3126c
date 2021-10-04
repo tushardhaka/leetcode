@@ -1,0 +1,22 @@
+
+e
+java:S1192&"HDefine a constant instead of duplicating this literal "%d %s%n" 4 times.(€£ý…8ÍÇá÷ñ.
+y	java:S127#"XRefactor the code in order to not assign to this loop counter from within the loop body.(€„æÅüÿÿÿÿ8ÍÇá÷ñ.
+t	java:S127$"XRefactor the code in order to not assign to this loop counter from within the loop body.(œ°Þø8ÍÇá÷ñ.
+y	java:S127."XRefactor the code in order to not assign to this loop counter from within the loop body.(Üº®—ùÿÿÿÿ8ÍÇá÷ñ.
+y	java:S127."XRefactor the code in order to not assign to this loop counter from within the loop body.(Üº®—ùÿÿÿÿ8ÍÇá÷ñ.
+y	java:S1277"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÿž´•üÿÿÿÿ8ÍÇá÷ñ.
+y	java:S127G"XRefactor the code in order to not assign to this loop counter from within the loop body.(©ö•¾üÿÿÿÿ8ÍÇá÷ñ.
+y	java:S127G"XRefactor the code in order to not assign to this loop counter from within the loop body.(©ö•¾üÿÿÿÿ8ÍÇá÷ñ.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(±œðÌøÿÿÿÿ8ÍÇá÷ñ.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(÷úõ¹þÿÿÿÿ8ÍÇá÷ñ.
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(€£ý…8ÍÇá÷ñ.
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ì°¾•þÿÿÿÿ8ÍÇá÷ñ.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(€£ý…8ÍÇá÷ñ.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(‰ßñÄ8ÍÇá÷ñ.
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(€£ý…8ÍÇá÷ñ.
+T	java:S106="9Replace this use of System.out or System.err by a logger.(ŒàŽh8ÍÇá÷ñ.
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(æ±´¬8ÍÇá÷ñ.
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ð±£¸ÿÿÿÿÿ8ÍÇá÷ñ.
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(¼Ë­à8ÍÇá÷ñ.

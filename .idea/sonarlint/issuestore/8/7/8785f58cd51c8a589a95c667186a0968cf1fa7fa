@@ -1,0 +1,10 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(ŸÉ“®øÿÿÿÿ8šÀ™š/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(·ø»Ï8ÑÃœ/
+\
+java:S1854"?Remove this useless assignment to local variable "firstNumber".(€î·8À»Ôš/
+Z
+java:S1197"8Move the array designator from the variable to the type.(À¸âêûÿÿÿÿ8«Œœš/
+M
+java:S1481"0Remove this unused "firstNumber" local variable.(€î·8À»Ôš/

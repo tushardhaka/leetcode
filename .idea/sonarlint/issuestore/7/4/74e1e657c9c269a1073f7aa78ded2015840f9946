@@ -1,0 +1,18 @@
+
+Q
+java:S1066G"/Merge this if statement with the enclosing one.(¬ÅÄÉüÿÿÿÿ8´ó«Ù…/
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(½§ÿ¢ýÿÿÿÿ8í«ýØ…/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(é÷Ï’úÿÿÿÿ8û’Ãô†/
+]	java:S125"<This block of commented-out lines of code should be removed.(‹žÙúÿÿÿÿ8û’Ãô†/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²é´È8û’Ãô†/
+a
+java:S1854"?Remove this useless assignment to local variable "currentChar".(ØñÀŒþÿÿÿÿ8¾ÁíØ…/
+t	java:S127="XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8£â¾Ù…/
+R
+java:S1481"0Remove this unused "starCounter" local variable.(€¯Â•ÿÿÿÿÿ8ÔóØ…/
+]	java:S125"<This block of commented-out lines of code should be removed.(’—ïõúÿÿÿÿ8û’Ãô†/
+u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¨Îå8º¸ÓØ…/
+X	java:S125"<This block of commented-out lines of code should be removed.(‹Éÿ¼8û’Ãô†/
+]	java:S125
+"<This block of commented-out lines of code should be removed.(¸òÌÜúÿÿÿÿ8û’Ãô†/

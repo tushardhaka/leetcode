@@ -1,0 +1,11 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ηµν‘
+U
+java:S1854"?Remove this useless assignment to local variable "currentChar".(Χ¬ς
+F
+java:S1481"0Remove this unused "currentChar" local variable.(Χ¬ς
+D
+java:S1481")Remove this unused "xSum" local variable.(ÒΏξωÿÿÿÿ
+I
+java:S1481"3Remove this unused "otherNumberSum" local variable.(άνµ‘
