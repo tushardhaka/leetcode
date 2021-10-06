@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 public class HashMapExample {
 
     public static void main(String[] args) {
+
         Map<Integer, Integer> testMap = new HashMap<>();
 
         testMap.put(1,1);
